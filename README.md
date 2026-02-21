@@ -2,7 +2,7 @@
 
 **`Engenheiro de IA`**
 
-me chamo Matheus de Oliveira Francisco, tenho 19 anos e sou Paulistano. Concluí o ensino médio no Colegio Presbiteriano Mackenzie, com o Curso Livre em Programação. Atualmente, estou cursando Engenharia de IA / Machine learning na Alura. Sou apaixonado por tecnologia e automoção e sempre compartilho meu conhecimento através de projetos no Github, e também através do [Instagram](https://www.instagram.com/mattl.fnc?igsh=MXJtNDR4OWxlbW1qaw==), com o perfil pessoal/profissional".
+Me chamo Matheus de Oliveira Francisco, tenho 19 anos e sou Paulistano. Concluí o ensino médio no Colegio Presbiteriano Mackenzie, com o Curso Livre em Programação. Atualmente, estou cursando Engenharia de IA / Machine learning na Alura. Sou apaixonado por tecnologia e automoção e sempre compartilho meu conhecimento através de projetos no Github, e também através do [Instagram](https://www.instagram.com/mattl.fnc?igsh=MXJtNDR4OWxlbW1qaw==), com o perfil pessoal/profissional".
 
 ### 🤖 Linguagens e Tecnologias
 

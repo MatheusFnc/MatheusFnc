@@ -14,7 +14,7 @@ me chamo Matheus de Oliveira Francisco, tenho 19 anos e sou Paulistano. Concluí
 ### ☁️ Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-francisco-366965278/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusliofrancisco@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwtvpCbtWltMRvCCpNWXDNxjWMTgcxksRwsklmbGhTTjStWWdcLDJnRGdzWtxmGgFqSLG)
 
 ## 🧬 Neural Network Sync
 

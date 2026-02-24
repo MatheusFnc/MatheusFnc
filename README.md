@@ -7,7 +7,6 @@ Me chamo Matheus de Oliveira Francisco, tenho 19 anos e sou Paulistano. Concluí
 ### 🤖 Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
